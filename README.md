@@ -24,3 +24,5 @@ HTML5
 CSS3
 JavaScript (ES6+)
 OpenWeatherMap API
+
+#PREVIEW LINK: [https://arnavrastogii.github.io/PRODIGY_WD_05/]
